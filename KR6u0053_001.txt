@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:50.871553
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:04
 #+TITLE: 新菩薩經
 #+PROPERTY: CBETA_ID T85n2917A
 #+PROPERTY: ID KR6u0053
